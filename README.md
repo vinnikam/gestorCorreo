@@ -12,4 +12,4 @@ DISEÑO DE LA SOLUCION
    ![Diagrama](https://github.com/vinnikam/gestorCorreo/blob/master/src/main/java/co/vinni/diagrama/diagramaClasesEnviarCorreov3.jpg)
 
 AUTOR:
-  Vinni. mi página
+  Vinni. 
